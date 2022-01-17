@@ -1,6 +1,6 @@
-Dracula theme for Beef programming language IDE
+# Dracula theme for Beef programming language IDE
 
-Instalation:
+### Instalation:
 
 - Copy theme.toml to C:\Program Files\BeefLang\bin\themes\Dracula (create subfolder 'themes' if its needed, create subfolder 'Dracula'). 
 
